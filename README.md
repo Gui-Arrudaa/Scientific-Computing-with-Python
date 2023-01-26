@@ -4,8 +4,8 @@
 
 ## Solutions
 
-- [Arithmetic Formatter](Arithmetic%20Formatter/index.py)
-- [Budget App](Budget%20App/index.py)
-- [Polygon Area Calculator](Polygon%20Area%20Calculator/index.py)
-- [Probability Calculator](Probability%20Calculator/index.py)
-- [Time Calculator](Time%20Calculator/index.py)
+- [Arithmetic Formatter](Arithmetic%20Formatter/arithmetic_arranger.py)
+- [Budget App](Budget%20App/budget.py)
+- [Polygon Area Calculator](Polygon%20Area%20Calculator/shape_calculator.py)
+- [Probability Calculator](Probability%20Calculator/prob_calculator.py)
+- [Time Calculator](Time%20Calculator/time_calculator.py)
