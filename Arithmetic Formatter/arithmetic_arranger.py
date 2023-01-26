@@ -2,7 +2,7 @@ def arithmetic_arranger(problems, solution=False):
 
   if len(problems) > 5:
     return 'Error: Too many problems.'
-  
+
   top, bottom, dashes, final = [], [], [], []
 
   for i in range(len(problems)):
@@ -22,7 +22,7 @@ def arithmetic_arranger(problems, solution=False):
       result = int(firstNumber) + int(secondNumber)
     elif operator == '-':
       result = int(firstNumber) - int(secondNumber)
-    else: 
+    else:
       return "Error: Operator must be '+' or '-'."
 
     distance = max(len(firstNumber), len(secondNumber)) + 2
